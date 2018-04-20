@@ -1,3 +1,3 @@
-# Hardmode Plus (name subject to change)
+# Ascension Mod
 
-tCF thread: https://forums.terraria.org/index.php?threads/hardmode-plus-mod.62023/
+Mod Homepage: https://forums.terraria.org/index.php?threads/hardmode-plus-mod.62023/
