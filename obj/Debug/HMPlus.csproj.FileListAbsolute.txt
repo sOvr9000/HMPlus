@@ -1,0 +1,10 @@
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\obj\Debug\HMPlus.csprojResolveAssemblyReference.cache
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\bin\Debug\HMPlus.dll
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\bin\Debug\HMPlus.pdb
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\bin\Debug\Microsoft.Xna.Framework.dll
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\bin\Debug\Microsoft.Xna.Framework.Game.dll
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\bin\Debug\Microsoft.Xna.Framework.Graphics.dll
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\bin\Debug\Microsoft.Xna.Framework.Xact.dll
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\bin\Debug\Terraria.exe
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\obj\Debug\HMPlus.dll
+D:\Users\Jordan\Documents\My Games\Terraria\ModLoader\Mod Sources\HMPlus\obj\Debug\HMPlus.pdb
