@@ -1,5 +1,0 @@
-author = sOvr9000
-version = 0.1.2
-displayName = Ascension
-homepage = https://forums.terraria.org/index.php?threads/hardmode-plus-mod.62023/
-buildIgnore = *.csproj, *.user, obj\*, obj\Debug\*, bin\*, .vs\*
